@@ -5,7 +5,7 @@ This Power BI dashboard provides insights into customer demographics, balances, 
 
 ## Dashboard Highlights
 - **Total Balance Overview**: Displays total, male, and female balances.
-- **Balance by Education and Marital Status**: Highlights customer balance distribution across different educational backgrounds and marital statuses.
+- **Balance by Education and Marital Status**: Highlights customer balance distribution across different educational backgrounds and job classification.
 - **Customers by Age and Balance Groups**: Shows customer count distributions by age and account balance tiers.
 
 ## Screenshots
