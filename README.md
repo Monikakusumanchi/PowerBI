@@ -34,49 +34,6 @@ This Power BI dashboard provides insights into customer demographics, balances, 
 - Use power query to do datatype changes
 - Better to use ID field always as text
 
-
-
-
-
-
-
-# PowerBI
-
-![cheese](https://github.com/Monikakusumanchi/PowerBI/blob/main/1..png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # PowerBI
 
 ![cheese](https://github.com/Monikakusumanchi/PowerBI/blob/main/1..png)
