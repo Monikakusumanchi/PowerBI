@@ -13,7 +13,7 @@ This Power BI dashboard provides insights into customer demographics, balances, 
 ![American Bank Dashboard Overview](https://github.com/Monikakusumanchi/PowerBI/blob/mojo/2.1.png)
 
 ### Balance by Education and Job Classification
-![Balance by Education and Job Classification](https://github.com/Monikakusumanchi/PowerBI/blob/mojo/Bank-Adv.png)
+![Balance by Education and Job Classification](https://github.com/Monikakusumanchi/PowerBI/blob/mojo/Screenshot%202024-10-29%20100740.png)
 ### Advanced Visulazation with measures and dimensions buttons
 ![Balance by Education and Job Classification](https://github.com/Monikakusumanchi/PowerBI/blob/mojo/Bank-Adv.png)
 
@@ -24,8 +24,7 @@ The data used is fictional and created for demo purposes.
 - **Visualizations**: Pie charts, bar graphs, line graphs, and scatter plots.
 - **Filters and Slicers**: Enables viewers to filter data by job classification, education, etc.
 
-## Usage
-Download the Power BI `.pbix` file from [here](./American_Bank_Dashboard.pbix) and open it with Power BI Desktop.
+
 
 
 
