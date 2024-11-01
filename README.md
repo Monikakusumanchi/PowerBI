@@ -34,4 +34,4 @@
 ![cheese](https://github.com/Monikakusumanchi/PowerBI/blob/mojo/4.2.Disaster.png)
 # PowerBI
 
-![cheese](https://github.com/Monikakusumanchi/PowerBI/blob/main/Bank-Adv.png)
+![cheese](https://github.com/Monikakusumanchi/PowerBI/blob/mojo/Bank-Adv.png)
